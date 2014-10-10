@@ -1,3 +1,3 @@
 showcase
 ========
-Hello world!
+Hello Lenski Lab!

@@ -1,3 +1,0 @@
-showcase
-========
-Hello Lenski Lab!
